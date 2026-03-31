@@ -165,5 +165,4 @@ Sem instalação de browsers — o pipeline roda em ~1 minuto.
 
 **Matheus Martins Silva** — QA Analyst · QA Automation Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Martins-0077b5?logo=linkedin)](https://linkedin.com/in/SEU_PERFIL)
 [![GitHub](https://img.shields.io/badge/GitHub-TeteuCoder-181717?logo=github)](https://github.com/TeteuCoder)
